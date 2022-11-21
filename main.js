@@ -97,3 +97,13 @@ function triangle(a){
   }
 }
 // console.log(triangle(3));
+let h 
+function w(a){
+
+for(let i = 0; i < 10; i++){
+  h = i
+
+}
+return h
+}
+console.log(w(2));
